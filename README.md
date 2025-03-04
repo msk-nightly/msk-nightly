@@ -1,6 +1,12 @@
-## Hello there 👋 As-salamu Alaikum.
+## Hello there 👋 As-salamu Alaikum
 
 Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few things. I am currently an undergraduate student of Mechanical Engineering at the Bangladesh University of Engineering and Technology.
+
+- 🔭 I’m currently working on myself.
+- 🌱 I’m currently learning about myself (and the world).
+- 🤔 I’m looking for help with myself (to survive in this world).
+- 💬 Ask me about nothing.
+- 📫 How to reach me: Why would you want to reach me?
 
 <!--
 **msk-nightly/msk-nightly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
