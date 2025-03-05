@@ -1,11 +1,11 @@
 ## Hello there 👋 As-salamu Alaikum
 
-Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few things. I am currently an undergraduate student of Mechanical Engineering at the Bangladesh University of Engineering and Technology.
+Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few things. I'm currently an undergraduate student of Mechanical Engineering at the Bangladesh University of Engineering and Technology.
 
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning about myself (and the world).
-- 🤔 I’m looking for help with myself (to survive in this world).
-- 💬 Ask me about nothing.
+- 🤔 I’m looking for help with myself (to learn how to survive in this world).
+- 💬 Ask me about nothing. (I know nothing.)
 - 📫 How to reach me: Are you sure that you want to reach me? I wonder why. Feel free to check my website at https://msk-nightly.github.io for contact info.
 
 <!--
