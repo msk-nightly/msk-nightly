@@ -1,6 +1,6 @@
 ## Hello there 👋 As-salamu Alaikum
 
-Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few things. I'm currently an undergraduate student of Mechanical Engineering at the Bangladesh University of Engineering and Technology.
+Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few things. I'm currently an undergraduate student of Mechanical Engineering at the Bangladesh University of Engineering and Technology (BUET).
 
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning about myself (and the world).
