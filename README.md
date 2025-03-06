@@ -6,7 +6,7 @@ Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few thin
 - 🌱 I’m currently learning about myself (and the world).
 - 🤔 I’m looking for help with myself (to learn how to survive in this world).
 - 💬 Ask me about nothing. (I know nothing.)
-- 📫 How to reach me: Are you sure that you want to reach me? I wonder why. Feel free to check my website at https://msk-nightly.github.io for contact info.
+- 📫 How to reach me: Are you sure that you want to reach me? I wonder why.
 
 <!--
 **msk-nightly/msk-nightly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
