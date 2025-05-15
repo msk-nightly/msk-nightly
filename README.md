@@ -33,7 +33,7 @@ git push -u origin main <!--OR, to push forcibly: git push -uf origin main-->
 
 Replace *username* and *repo-name* with your required ones.
 
-I hope it helps.
+Just trying to share something relevant that I've benefitted from personally. I hope it helps.
 
 <!--
 **msk-nightly/msk-nightly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
