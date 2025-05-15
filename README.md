@@ -27,11 +27,11 @@ echo "# *repo-name*" >> README.md
 git init  
 git add .  
 git commit -m "first commit"  
-git branch -M main <!--Only if you want to change the initial branch name from 'master' to anything else (in this case, 'main')-->  
+git branch -M main <!--Only if you want to change the initial default/'base' branch name from 'master' to anything else (in this case, 'main'). Depending on your use case, this may neither be helpful nor necessary.-->  
 git remote add origin https://github.com/*username*/*repo-name*.git  
-git push -u origin main <!--OR, to push forcibly: git push -uf origin main-->  
+git push -u origin main <!--Use 'master' if you haven't changed the branch name above. Also, to push forcibly: git push -uf origin main-->  
 
-Replace *username* and *repo-name* with your required ones.
+Replace *username* and *repo-name* with your required ones. To see the hiddent comments try looking at the main blob,
 
 Just trying to share something relevant that I've benefitted from personally. I hope it helps.
 
