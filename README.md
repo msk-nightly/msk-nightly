@@ -19,6 +19,8 @@ Before making any git commits, you can set it up using the following commands fo
 git config --global user.name "John Doe"  
 git config --global user.email "johndoe@email.com"
 
+And if that doesn't work, try replacing "John Doe" with "Your Name" (Just this. DON'T use your actual name.) and "johndoe@email.com" with "you@example.com".
+
 ### Creating a local git repo and exporting it to a git repo hosting site
 
 echo "# *repo-name*" >> README.md
@@ -30,6 +32,8 @@ git remote add origin https://github.com/*username*/*repo-name*.git
 git push -u origin main <!--OR, to push forcibly: git push -uf origin main-->  
 
 Replace *username* and *repo-name* with your required ones.
+
+I hope it helps.
 
 <!--
 **msk-nightly/msk-nightly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
