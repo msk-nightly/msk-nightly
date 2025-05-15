@@ -10,6 +10,27 @@ Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few thin
 - 💬 Ask me about nothing. (I know nothing.)
 - 📫 How to reach me: Are you sure that you want to reach me? I wonder why.
 
+## Some handy steps for using git-cli locally
+
+### Anonymous git commits
+
+Before making any git commits, you can set it up using the following commands for anonymity:
+
+git config --global user.name "John Doe"  
+git config --global user.email "johndoe@email.com"
+
+### Creating a local git repo and exporting it to a git repo hosting site
+
+echo "# *repo-name*" >> README.md
+git init  
+git add .  
+git commit -m "first commit"  
+git branch -M main <!--Only if you want to change the initial branch name from 'master' to anything else (in this case, 'main')-->  
+git remote add origin https://github.com/*username*/*repo-name*.git  
+git push -u origin main <!--OR, to push forcibly: git push -uf origin main-->  
+
+Replace *username* and *repo-name* with your required ones.
+
 <!--
 **msk-nightly/msk-nightly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
