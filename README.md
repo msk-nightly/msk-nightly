@@ -1,3 +1,5 @@
+<div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
+
 ## Hello there 👋 As-salamu Alaikum
 
 Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few things. I've recently completed my undergraduate in Mechanical Engineering from the Bangladesh University of Engineering and Technology (BUET).
