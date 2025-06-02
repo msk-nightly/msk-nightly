@@ -6,6 +6,7 @@ Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few thin
 
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning about myself (and the world).
+- 👯 I’m looking to collaborate on computational studies of the mechanical behaviour of the heart.
 - 🤔 I’m looking for help with myself (to learn how to survive in this world).
 - 💬 Ask me about nothing. (I know nothing.)
 - 📫 How to reach me: Are you sure that you want to reach me? I wonder why.
@@ -14,15 +15,18 @@ Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few thin
 
 ### Anonymous git commits
 
-Before making any git commits, you can set it up using the following commands for anonymity:
+Before making any git commits, you can set it up using the following commands for anonymity:  
 
+```
 git config --global user.name "John Doe"  
 git config --global user.email "johndoe@email.com"
+```
 
-And if that doesn't work, try replacing "John Doe" with "Your Name" (Just this. DON'T use your actual name.) and "johndoe@email.com" with "you@example.com".
+And if that doesn't work, try replacing "John Doe" with "Your Name" (Just this. DON'T use your actual name.) and "johndoe@email.com" with "you@example.com".  
 
 ### Creating a local git repo and exporting it to a git repo hosting site
 
+```
 echo "# *repo-name*" >> README.md
 git init  
 git add .  
@@ -30,9 +34,10 @@ git commit -m "first commit"
 git branch -M main <!--Only if you want to change the initial default/'base' branch name from 'master' to anything else (in this case, 'main'). Depending on your use case, this may neither be helpful nor necessary.-->  
 git remote add origin https://github.com/*username*/*repo-name*.git  
 git push -u origin main <!--Use 'master' if you haven't changed the branch name above. Also, to push forcibly: git push -uf origin main-->  
+```
 
-Replace *username* and *repo-name* with your required ones. To see the hiddent comments try looking at the main blob,
-Also, do remember to create a .gitignore file to exclude files that you don't want git to track and, therefore, you would not have backed up via git either in the local storage or in the online hosting site's storage.
+Replace *username* and *repo-name* with your required ones.  
+Also, do remember to create a .gitignore file to exclude files that you don't want git to track and, therefore, you would not have backed up via git either in the local storage or in the online hosting site's storage.  
 
 Just trying to share something relevant that I've benefitted from personally. I hope it helps.
 
