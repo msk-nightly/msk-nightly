@@ -2,7 +2,7 @@
 
 ## Hello there 👋 As-salamu Alaikum
 
-Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few things. I've recently completed my undergraduate in Mechanical Engineering from the Bangladesh University of Engineering and Technology (BUET).
+Welcome. I'm MSK - a Sunni Muslim Bangali who knows very little about a few things. I have a Bachelor's degree in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET).
 
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning about myself (and the world).
